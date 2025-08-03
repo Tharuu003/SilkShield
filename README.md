@@ -21,15 +21,10 @@ Technologies Used
 🗂️ Database: SQLite
 
 Team
-+-------------+------------------------+---------------------------------------------------------+
-| Index No.   | Name                   | Role                                                    |
-+-------------+------------------------+---------------------------------------------------------+
-| AF/22/0679  | E.A.U.N. Edirisinghe   | Developer, UI/UX, Business Analyst, Team Leader         |
-| AF/22/0270  | D.O.S. Kodikara        | Developer, UI/UX, Business Analyst                      |
-| AF/22/0759  | K.T.N. Kodithuwakku    | Developer, Project Manager, Business Analyst            |
-| AF/22/0613  | R.I.S. Rupasinghe      | Developer, Project Manager, Quality Assurance           |
-| AF/22/0731  | M.A.N.C. Manchanayake  | Developer, UI/UX, Quality Assurance                     |
-| AF/22/0419  | D.P. Karavita          | Developer, Project Manager, Quality Assurance           |
-+-------------+------------------------+---------------------------------------------------------+
 
-
+AF/22/0679 -E.A.U.N. Edirisinghe - Developer, UI/UX, Business Analyst, Team Leader 
+AF/22/0270 -D.O.S. Kodikara     -  Developer, UI/UX, Business Analyst
+AF/22/0759 -K.T.N. Kodithuwakku  - Developer, Project Manager, Business Analyst
+AF/22/0613 - R.I.S. Rupasinghe -  Developer, Project Manager, Quality Assurance
+AF/22/0731 - M.A.N.C. Manchanayake - Developer, UI/UX, Quality Assurance
+AF/22/0419 - D.P. Karavita         - Developer, Project Manager, Quality Assurance
