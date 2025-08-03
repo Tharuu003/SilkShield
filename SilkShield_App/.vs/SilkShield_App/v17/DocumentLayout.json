@@ -7,6 +7,7 @@
       "RelativeMoniker": "D:0:0:{3B8E65B2-A6AC-4A3D-98A3-4428044C654C}|SilkShield_App\\SilkShield_App.csproj|solutionrelative:silkshield_app\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+
       "AbsoluteMoniker": "D:0:0:{3B8E65B2-A6AC-4A3D-98A3-4428044C654C}|SilkShield_App\\SilkShield_App.csproj|c:\\users\\my pc\\desktop\\silkshield\\silkshield_app\\silkshield_app\\viewmodel\\invoicewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B8E65B2-A6AC-4A3D-98A3-4428044C654C}|SilkShield_App\\SilkShield_App.csproj|solutionrelative:silkshield_app\\viewmodel\\invoicewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +30,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B8E65B2-A6AC-4A3D-98A3-4428044C654C}|SilkShield_App\\SilkShield_App.csproj|c:\\users\\my pc\\desktop\\silkshield\\silkshield_app\\silkshield_app\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B8E65B2-A6AC-4A3D-98A3-4428044C654C}|SilkShield_App\\SilkShield_App.csproj|solutionrelative:silkshield_app\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +40,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
