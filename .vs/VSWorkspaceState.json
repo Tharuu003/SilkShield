@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SilkShield_App",
+    "\\SilkShield_App\\SilkShield_App"
   ],
+  "SelectedNode": "\\SilkShield_App\\SilkShield_App\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
