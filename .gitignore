@@ -1,0 +1,8 @@
+# Visual Studio files to ignore
+.vs/
+*.suo
+*.user
+*.cache
+*.db
+*.vsidx
+*.sqlite
