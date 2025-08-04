@@ -40,12 +40,19 @@ namespace SilkShield_App {
     /// </summary>
     public partial class App : System.Windows.Application {
         
+        private bool _contentLoaded;
+        
         /// <summary>
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public void InitializeComponent() {
+            if (_contentLoaded) {
+                return;
+            }
+            _contentLoaded = true;
+            System.Uri resourceLocater = new System.Uri("/SilkShield_App;component/app.xaml", System.UriKind.Relative);
             
             #line 5 "..\..\App.xaml"
             this.StartupUri = new System.Uri("View/MainWindow.xaml", System.UriKind.Relative);
