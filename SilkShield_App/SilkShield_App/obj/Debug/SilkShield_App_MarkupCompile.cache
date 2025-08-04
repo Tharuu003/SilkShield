@@ -4,21 +4,17 @@
 winexe
 C#
 .cs
-
-C:\Users\my pc\Desktop\SilkShield\SilkShield_App\SilkShield_App\obj\Debug\
-
+D:\SilkShield\SilkShield\SilkShield_App\SilkShield_App\obj\Debug\
 SilkShield_App
 none
 false
 DEBUG;TRACE
+D:\SilkShield\SilkShield\SilkShield_App\SilkShield_App\App.xaml
+3255666832
 
-C:\Users\my pc\Desktop\SilkShield\SilkShield_App\SilkShield_App\App.xaml
-1219584333
-
-6-793535042
-13-38814620
-
-MainWindow.xaml;
+12114772634
+20-759572915
+View\DashbordWindow.xaml;View\InvoiceWindow.xaml;View\MainWindow.xaml;
 
 True
 
